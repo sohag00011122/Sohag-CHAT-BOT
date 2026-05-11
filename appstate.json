@@ -1,1 +1,119 @@
-এখানের টেক্সট গুলো কেটে আপনার ফেসবুক আইডির কুকি বসান ✅
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261588300509833%22%3A%22SKePoCRU%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2026-05-11T14:00:51.848Z",
+        "lastAccessed": "2026-05-11T14:00:51.849Z"
+    },
+    {
+        "key": "datr",
+        "value": "-N4BahwkfnLh42Uc2pWddN9B",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-11T14:00:51.849Z",
+        "lastAccessed": "2026-05-11T14:00:51.849Z"
+    },
+    {
+        "key": "sb",
+        "value": "-N4BahknMHSssGtvPLiVQmvE",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-11T14:00:51.849Z",
+        "lastAccessed": "2026-05-11T14:00:51.849Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "1.875",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-11T14:00:51.849Z",
+        "lastAccessed": "2026-05-11T14:00:51.849Z"
+    },
+    {
+        "key": "wd",
+        "value": "385x854",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-11T14:00:51.849Z",
+        "lastAccessed": "2026-05-11T14:00:51.849Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61588300509833",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-11T14:00:51.850Z",
+        "lastAccessed": "2026-05-11T14:00:51.850Z"
+    },
+    {
+        "key": "xs",
+        "value": "40%3A5PEBDVWBlnO_DQ%3A2%3A1778507764%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-11T14:00:51.850Z",
+        "lastAccessed": "2026-05-11T14:00:51.850Z"
+    },
+    {
+        "key": "fr",
+        "value": "0cge72cdVQRMNPT3S.AWckAwOx73iKKHsjzLgAO1kd2l4ULJ_q9UHePWuuvPZlax4Ls4o.BqAd74..AAA.0.0.BqAeAt.AWc-hfvYbSBL7MGXN7Tebwa3Fyc",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-11T14:00:51.850Z",
+        "lastAccessed": "2026-05-11T14:00:51.850Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-11T14:00:51.850Z",
+        "lastAccessed": "2026-05-11T14:00:51.850Z"
+    },
+    {
+        "key": "pas",
+        "value": "61588300509833%3A3mD6IsuuGz",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-11T14:00:51.850Z",
+        "lastAccessed": "2026-05-11T14:00:51.850Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A3158%3Btimestamp%3A1778507821",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-11T14:00:51.850Z",
+        "lastAccessed": "2026-05-11T14:00:51.850Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "100623589%3BT%3A29641797",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-11T14:00:51.850Z",
+        "lastAccessed": "2026-05-11T14:00:51.850Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B727x384x1.875",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-11T14:00:51.850Z",
+        "lastAccessed": "2026-05-11T14:00:51.850Z"
+    }
+      ]
